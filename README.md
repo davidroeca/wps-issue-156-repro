@@ -1,3 +1,3 @@
-### WPS Issue 156 Repro
+### WPS Issue 157 Repro
 
-This repository reproduces [webpack-plugin-serve issue 156](https://github.com/shellscape/webpack-plugin-serve/issues/156).
+This repository reproduces [webpack-plugin-serve issue 157](https://github.com/shellscape/webpack-plugin-serve/issues/157).
